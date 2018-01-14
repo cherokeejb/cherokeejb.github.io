@@ -1,3 +1,7 @@
+This repo is just the This file is just the html version for the current rotation on the cherokeejb.github.io page until I use it for something else; and for now I've taken it down or will make a simple html version. index is a copy from blogger
+
+-
+
 The 3 Mac security tips for Managers and everyone
 Managers, artists, teachers, and just about anyone else can follow these tips to make your Mac a security tank!
 
@@ -7,6 +11,6 @@ This was adapted from a company newsletter and used in production/"security awar
 
 Combine these 3 tips with regular updates of your computer and applications and prudent web-browsing (think especially of blocking un-needed ads or other javascript) to make your Mac as strong as a castle or a tank - This is an archive & git copy of the most important ways people can secure their Macintosh computers.
 
-This file is just the html version for the current rotation on the cherokeejb.github.io page until I use it for something else
+
 
 ~
